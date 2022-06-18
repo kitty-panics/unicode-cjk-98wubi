@@ -27543,7 +27543,7 @@ U+26B95	𦮕	awnu
 U+26B96	𦮖	afqy
 U+26B97	𦮗	alvf
 U+26B98	𦮘	abdf
-U+26B99	𦮙	abtm,abym,arbm,atbm,aybm
+U+26B99	𦮙	arbm,abym,aybm,abtm,atbm
 U+26B9A	𦮚	aigc
 U+26B9B	𦮛	aiqy
 U+26B9C	𦮜	apuf

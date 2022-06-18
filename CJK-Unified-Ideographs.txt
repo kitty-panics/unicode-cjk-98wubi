@@ -15077,7 +15077,7 @@ U+88E2	裢	pul,pulp
 U+88E3	裣	puwg
 U+88E4	裤	puo,puol
 U+88E5	裥	puuj
-U+88E6	裦	ythe
+U+88E6	裦	yqge
 U+88E7	裧	puoo
 U+88E8	裨	pur,purf
 U+88E9	裩	pujx
@@ -15117,8 +15117,8 @@ U+890A	褊	puy,puya
 U+890B	褋	puas
 U+890C	褌	pupl
 U+890D	褍	pumj
-U+890E	褎	ythe
-U+890F	褏	ythe
+U+890E	褎	yqge
+U+890F	褏	yqge
 U+8910	褐	pujn
 U+8911	褑	puec
 U+8912	褒	ywk,ywke
@@ -15170,7 +15170,7 @@ U+893F	褿	pugj
 U+8940	襀	pugm
 U+8941	襁	pux,puxj
 U+8942	襂	puce
-U+8943	襃	ythe
+U+8943	襃	yqge
 U+8944	襄	ykk,ykke
 U+8945	襅	pujg
 U+8946	襆	puog

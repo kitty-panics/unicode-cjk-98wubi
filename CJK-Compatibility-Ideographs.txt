@@ -166,7 +166,7 @@ U+F9A4	捻	rwyn
 U+F9A5	殮	gqww
 U+F9A6	簾	touw
 U+F9A7	獵	qtvn
-U+F9A8	令	wgbj,wycu
+U+F9A8	令	wycu,wgbj
 U+F9A9	囹	lwyc
 U+F9AA	寧	pnls
 U+F9AB	嶺	mwym
@@ -178,7 +178,7 @@ U+F9B0	聆	bwyc
 U+F9B1	鈴	qwyc
 U+F9B2	零	fwyc
 U+F9B3	靈	fkkw
-U+F9B4	領	wgbm,wycm
+U+F9B4	領	wycm,wgbm
 U+F9B5	例	wgqj
 U+F9B6	禮	pymu
 U+F9B7	醴	sgmu

@@ -6093,7 +6093,7 @@ U+2E67B	𮙻	mjgg
 U+2E67C	𮙼	mwfy
 U+2E67D	𮙽	mtet
 U+2E67E	𮙾	mwiy
-U+2E67F	𮙿	wgbm,wycm
+U+2E67F	𮙿	wycm,wgbm
 U+2E680	𮚀	mnan
 U+2E681	𮚁	yjmi
 U+2E682	𮚂	fami
@@ -6360,7 +6360,7 @@ U+2E786	𮞆	grpk
 U+2E787	𮞇	dxyp
 U+2E788	𮞈	kqpv
 U+2E789	𮞉	mnpv
-U+2E78A	𮞊	wgbp,wycp
+U+2E78A	𮞊	wycp,wgbp
 U+2E78B	𮞋	tyfp
 U+2E78C	𮞌	rpnb
 U+2E78D	𮞍	uqpe
@@ -7219,7 +7219,7 @@ U+2EAE1	𮫡	dwrc
 U+2EAE2	𮫢	jqtv,lqtv
 U+2EAE3	𮫣	rqco
 U+2EAE4	𮫤	rqch
-U+2EAE5	𮫥	rqcl,tlql
+U+2EAE5	𮫥	rqcl,rqcl
 U+2EAE6	𮫦	rqcs
 U+2EAE7	𮫧	yrbc
 U+2EAE8	𮫨	rqcj

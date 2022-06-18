@@ -3915,8 +3915,8 @@ U+2B649	𫙉	rqcr
 U+2B64A	𫙊	tlqu
 U+2B64B	𫙋	tjtc
 U+2B64C	𫙌	ffhc
-U+2B64D	𫙍	tlql
-U+2B64E	𫙎	tlqf
+U+2B64D	𫙍	rqcl
+U+2B64E	𫙎	rqcf
 U+2B64F	𫙏	qofh
 U+2B650	𫙐	qoaj
 U+2B651	𫙑	qomc

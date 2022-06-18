@@ -161,7 +161,7 @@ U+2B8BF	𫢿	waqc
 U+2B8C0	𫣀	wdhh
 U+2B8C1	𫣁	wkjh
 U+2B8C2	𫣂	wbcl
-U+2B8C3	𫣃	wgbv,wycv
+U+2B8C3	𫣃	wycv,wgbv
 U+2B8C4	𫣄	wdyg
 U+2B8C5	𫣅	wmgu
 U+2B8C6	𫣆	wldn
@@ -581,7 +581,7 @@ U+2BA63	𫩣	mdkf
 U+2BA64	𫩤	kog
 U+2BA65	𫩥	khjg
 U+2BA66	𫩦	kmgn
-U+2BA67	𫩧	wgbk,wyck
+U+2BA67	𫩧	wyck,wgbk
 U+2BA68	𫩨	qbkf
 U+2BA69	𫩩	kqvg
 U+2BA6A	𫩪	kudg
@@ -5714,7 +5714,7 @@ U+2CE70	𬹰	thlk
 U+2CE71	𬹱	ybvj
 U+2CE72	𬹲	ylf
 U+2CE73	𬹳	ytmh
-U+2CE74	𬹴	wgbo,wyco
+U+2CE74	𬹴	wyco,wgbo
 U+2CE75	𬹵	hbbs
 U+2CE76	𬹶	hbye
 U+2CE77	𬹷	hbpf
