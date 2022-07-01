@@ -60,7 +60,7 @@ U+4E10	丐	ghn,ghnv
 
 参考资料可在 [参考资料] 目录下找到。其中非文件类的在线资料将转换成 PDF 快照存放。
 
-+ 2022-06-17 更新的 [RIME-DATA.7z]
++ 2022-06-20 更新的 [RIME-DATA.7z]
 
 [参考资料]: 参考资料
 [RIME-DATA.7z]: http://98wb.ysepan.com
