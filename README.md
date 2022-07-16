@@ -27,7 +27,7 @@ U+4E10	丐	ghn,ghnv
 
 ## 文件列表
 
-+ [All.txt] (整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement)
++ [All.txt] (整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement/Radicals-Supplement/Strokes)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
