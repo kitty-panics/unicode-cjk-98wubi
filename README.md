@@ -38,6 +38,8 @@ U+4E10	丐	ghn,ghnv
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
++ [CJK-Radicals-Supplement.txt] (中日韩汉字部首补充)
++ [CJK-Strokes.txt] (中日韩笔画)
 
 **注：**
 
@@ -55,6 +57,8 @@ U+4E10	丐	ghn,ghnv
 [CJK-Unified-Ideographs-Extension-G.txt]: CJK-Unified-Ideographs-Extension-G.txt
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
+[CJK-Radicals-Supplement.txt]: CJK-Radicals-Supplement.txt
+[CJK-Strokes.txt]: CJK-Strokes.txt
 
 ## 参考资料
 
