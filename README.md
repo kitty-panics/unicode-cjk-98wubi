@@ -39,6 +39,7 @@ U+4E10	丐	ghn,ghnv
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
 + [CJK-Radicals-Supplement.txt] (中日韩汉字部首补充)
++ [Kangxi-Radicals.txt] (康熙部首)
 + [CJK-Strokes.txt] (中日韩笔画)
 
 **注：**
